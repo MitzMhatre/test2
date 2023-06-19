@@ -1,0 +1,134 @@
+
+.parent{
+	display:flex;
+	
+	
+	/* flex-start,flex-end,center,space-between,space-around */
+	/* height:300px; */
+	/* align-items:flex-end; */
+	/* stretch,flex-end,flex-start */
+	/* flex-wrap:wrap; */
+	/* flex-direction:column; */
+	/* justify-content:flex-end; */
+}
+
+.child{
+	
+	width:200px; 
+	
+	flex-basis:200px;
+}
+
+.ch-1{
+	/* flex-grow:2; */
+	
+}
+
+
+.ch-2{
+	/* flex-grow:4; */
+	/* order:1; */
+}
+
+
+
+.ch-3{
+	/* order:1; */
+}
+
+
+.ch-4{
+}
+
+.ch-5{
+
+}
+
+
+
+
+
+
+
+h1, h2, div{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+}
+
+
+
+.parent{
+    border:2px solid goldenrod;
+    /* height: auto; */
+
+  }
+
+
+
+
+
+.child{
+
+}
+
+
+
+.ch-1{
+
+    background: #d85b5b;
+
+
+}
+
+.ch-2{
+
+    background-color: #ccf950;
+
+}
+
+.ch-3{
+
+background-color: #49cc80;
+
+}
+
+.ch-4{
+
+background-color: #8e5bd8;
+
+}
+
+.ch-5{
+background-color: #423942;
+
+}
+
+
+.parent2{
+}
+
+
+.children{
+  border: 2px solid #555;
+}
+
+
+.child1{
+
+}
+
+.child2{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* dff */
